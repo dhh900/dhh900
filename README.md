@@ -17,5 +17,5 @@ I am a software tester with a Bachelor of Science in Electrical Power and Machin
 
 
 ### 📈 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dina&show_icons=true&theme=radical)
 
