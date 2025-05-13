@@ -14,8 +14,3 @@ I am a software tester graduated from Faculty of Engineering Cairo University, a
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![API](https://img.shields.io/badge/-API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-
-### 📈 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinaHussien&show_icons=true&theme=radical)
-
